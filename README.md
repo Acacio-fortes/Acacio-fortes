@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá, Acacio Fortes aqui! 👋
 
-<!--
-**Acacio-fortes/Acacio-fortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente estou trabalhando como Analista de Testes Automatizados Jr.
+- :robot: Sou estudante de Robot Framework
+- :technologist: Estudante de Analises e Desenvolvimentos de Sistema 
+- :thought_balloon: Procuro colaborar em Automatização de testes com Robot Framework
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Acacio-fortes&show_icons=true&black&include_all_commits=true&count_private=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+</div>
+<br>
+
+<div  align="center"> 
+
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: acaciofortesti@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/acacio-fortes/">
+      <img width="25" src="linkedin.svg">
+    </a>
+</div>
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
